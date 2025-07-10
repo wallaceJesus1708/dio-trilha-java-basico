@@ -27,7 +27,7 @@ public class ContaTerminal {
         " e seu saldo R$ " + saldo + " já esta disponvel para saque.");
 
 
-        //Fechamento do Scanner
+        //Fechamento do Scanner...........
         scanner.close();
     }
 }
